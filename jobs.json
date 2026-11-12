@@ -150,6 +150,26 @@
    "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/ingest_drop.py",
    "dest": "train",
    "filename": "ingest_drop.py"
+  },
+  {
+   "id": "put-dataset-report-ps1-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/dataset_report.ps1",
+   "dest": "train",
+   "filename": "dataset_report.ps1"
+  },
+  {
+   "id": "put-dataset-report-py-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/dataset_report.py",
+   "dest": "train",
+   "filename": "dataset_report.py"
+  },
+  {
+   "id": "run-dataset-report-1",
+   "kind": "run",
+   "script": "dataset_report.ps1",
+   "log": "dsreport1"
   }
  ]
 }
