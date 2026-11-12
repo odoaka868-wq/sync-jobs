@@ -105,6 +105,25 @@
    "kind": "run",
    "script": "setup_fix.ps1",
    "log": "setupfix1"
+  },
+  {
+   "id": "put-run-train-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/run_train.ps1",
+   "dest": "train",
+   "filename": "run_train.ps1"
+  },
+  {
+   "id": "run-run-train-1",
+   "kind": "run",
+   "script": "run_train.ps1",
+   "log": "train1"
+  },
+  {
+   "id": "run-keepawake-2",
+   "kind": "run",
+   "script": "keepawake.ps1",
+   "log": "keepawake2"
   }
  ]
 }
