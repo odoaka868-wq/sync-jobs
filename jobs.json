@@ -130,6 +130,26 @@
    "kind": "run",
    "script": "ingest_drop.ps1",
    "log": "ingest1"
+  },
+  {
+   "id": "put-train-fix-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/train_fix.ps1",
+   "dest": "train",
+   "filename": "train_fix.ps1"
+  },
+  {
+   "id": "run-train-fix-1",
+   "kind": "run",
+   "script": "train_fix.ps1",
+   "log": "trainfix1"
+  },
+  {
+   "id": "put-ingest-py-2",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/ingest_drop.py",
+   "dest": "train",
+   "filename": "ingest_drop.py"
   }
  ]
 }
