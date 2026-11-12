@@ -1,1 +1,49 @@
-77u/IyBydW5fdHJhaW4ucHMxOiB0ZWdha2lzayDkvZzpoqhMb1JB5a2m57+S44KSIHBjMSDjgaflrp/ooYzjgZnjgosgKENvbGFi5a6M6LWw5qeL5oiQ44Gu56e75qSN44CBb3B0aW1pemVy44Gu44G/YWRhbXfjgavlpInmm7QpCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAnQ29udGludWUnCiR0cmFpbiA9IEpvaW4tUGF0aCAkZW52OlVTRVJQUk9GSUxFICdwYzEtdHJhaW4nCiRwa2dzID0gSm9pbi1QYXRoICR0cmFpbiAncGtncycKJHNkcyA9IEpvaW4tUGF0aCAkdHJhaW4gJ3NkLXNjcmlwdHMnCgokcHkgPSAkbnVsbAokaGl0ID0gR2V0LUNoaWxkSXRlbSAiJGVudjpMT0NBTEFQUERBVEFcQ29tZnktRGVza3RvcCIgLVJlY3Vyc2UgLUZpbHRlciAncHl0aG9uLmV4ZScgLUVycm9yQWN0aW9uIFNpbGVudGx5Q29udGludWUgfAogICAgV2hlcmUtT2JqZWN0IHsgJF8uRnVsbE5hbWUgLW5vdG1hdGNoICdub2RlJyB9IHwgU2VsZWN0LU9iamVjdCAtRmlyc3QgMQppZiAoJGhpdCkgeyAkcHkgPSAkaGl0LkZ1bGxOYW1lIH0KaWYgKC1ub3QgJHB5KSB7IFdyaXRlLU91dHB1dCAnUFlUSE9OIE5PVCBGT1VORCc7IGV4aXQgMSB9CgokbW9kZWxzRGlyID0gJG51bGwKJGNmZ1BhdGggPSBKb2luLVBhdGggJGVudjpVU0VSUFJPRklMRSAncGMxLWFnZW50XGNvbmZpZy5qc29uJwppZiAoVGVzdC1QYXRoICRjZmdQYXRoKSB7IHRyeSB7ICRtb2RlbHNEaXIgPSAoR2V0LUNvbnRlbnQgJGNmZ1BhdGggLVJhdyB8IENvbnZlcnRGcm9tLUpzb24pLm1vZGVsc0RpciB9IGNhdGNoIHt9IH0KaWYgKC1ub3QgJG1vZGVsc0RpcikgewogICAgJGggPSBHZXQtQ2hpbGRJdGVtICIkZW52OkxPQ0FMQVBQREFUQVxDb21meS1EZXNrdG9wIiAtRGlyZWN0b3J5IC1SZWN1cnNlIC1EZXB0aCA2IC1GaWx0ZXIgJ2NoZWNrcG9pbnRzJyAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZSB8IFNlbGVjdC1PYmplY3QgLUZpcnN0IDEKICAgIGlmICgkaCkgeyAkbW9kZWxzRGlyID0gJGguUGFyZW50LkZ1bGxOYW1lIH0KfQppZiAoLW5vdCAkbW9kZWxzRGlyKSB7IFdyaXRlLU91dHB1dCAnTU9ERUxTIERJUiBOT1QgRk9VTkQnOyBleGl0IDEgfQokYmFzZSA9IEpvaW4tUGF0aCAkbW9kZWxzRGlyICdjaGVja3BvaW50c1x3YWlOU0ZXSWxsdXN0cmlvdXNfdjE0LnNhZmV0ZW5zb3JzJwppZiAoLW5vdCAoVGVzdC1QYXRoICRiYXNlKSkgeyBXcml0ZS1PdXRwdXQgIkJBU0UgTU9ERUwgTk9UIEZPVU5EOiAkYmFzZSI7IGV4aXQgMSB9CiRkYXRhRGlyID0gSm9pbi1QYXRoICR0cmFpbiAnZGF0YScKJGltZ0NvdW50ID0gKEdldC1DaGlsZEl0ZW0gKEpvaW4tUGF0aCAkZGF0YURpciAnNV90ZWdha2lzaycpIC1GaWx0ZXIgJyouanBnJyAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZSkuQ291bnQKV3JpdGUtT3V0cHV0ICJweXRob246ICRweSIKV3JpdGUtT3V0cHV0ICJtb2RlbHM6ICRtb2RlbHNEaXIiCldyaXRlLU91dHB1dCAiZGF0YXNldCBpbWFnZXM6ICRpbWdDb3VudCIKaWYgKCRpbWdDb3VudCAtbHQgMTApIHsgV3JpdGUtT3V0cHV0ICdEQVRBU0VUIFRPTyBTTUFMTCc7IGV4aXQgMSB9CgokZW52OlBZVEhPTlBBVEggPSAiJHBrZ3M7JHNkcyIKUHVzaC1Mb2NhdGlvbiAkc2RzCiYgJHB5IHNkeGxfdHJhaW5fbmV0d29yay5weSBgCiAgLS1wcmV0cmFpbmVkX21vZGVsX25hbWVfb3JfcGF0aD0kYmFzZSBgCiAgLS10cmFpbl9kYXRhX2Rpcj0kZGF0YURpciBgCiAgLS1yZXNvbHV0aW9uPTEwMjQsMTAyNCAtLWVuYWJsZV9idWNrZXQgLS1taW5fYnVja2V0X3Jlc289NTEyIC0tbWF4X2J1Y2tldF9yZXNvPTE1MzYgLS1idWNrZXRfcmVzb19zdGVwcz02NCBgCiAgLS1vdXRwdXRfZGlyPShKb2luLVBhdGggJG1vZGVsc0RpciAnbG9yYXMnKSAtLW91dHB1dF9uYW1lPXRlZ2FraXNrIGAKICAtLW5ldHdvcmtfbW9kdWxlPW5ldHdvcmtzLmxvcmEgLS1uZXR3b3JrX2RpbT0zMiAtLW5ldHdvcmtfYWxwaGE9MTYgYAogIC0tbGVhcm5pbmdfcmF0ZT0xZS00IC0tdW5ldF9scj0xZS00IGAKICAtLWxyX3NjaGVkdWxlcj1jb3NpbmUgLS1scl93YXJtdXBfc3RlcHM9NTAgYAogIC0tb3B0aW1pemVyX3R5cGU9YWRhbXcgLS1taXhlZF9wcmVjaXNpb249ZnAxNiAtLWdyYWRpZW50X2NoZWNrcG9pbnRpbmcgYAogIC0tY2FjaGVfbGF0ZW50cyAtLWNhY2hlX3RleHRfZW5jb2Rlcl9vdXRwdXRzIC0tbmV0d29ya190cmFpbl91bmV0X29ubHkgYAogIC0tbWF4X3RyYWluX2Vwb2Nocz00IC0tc2F2ZV9ldmVyeV9uX2Vwb2Nocz0yIC0tc2VlZD00MiBgCiAgLS1mdWxsX2ZwMTYgLS1zZHBhIGAKICAtLXNhdmVfbW9kZWxfYXM9c2FmZXRlbnNvcnMgLS1mbGlwX2F1ZwokY29kZSA9ICRMQVNURVhJVENPREUKUG9wLUxvY2F0aW9uCldyaXRlLU91dHB1dCAidHJhaW4gZXhpdDogJGNvZGUiCkdldC1DaGlsZEl0ZW0gKEpvaW4tUGF0aCAkbW9kZWxzRGlyICdsb3JhcycpIC1GaWx0ZXIgJ3RlZ2FraXNrKicgfCBGb3JFYWNoLU9iamVjdCB7IFdyaXRlLU91dHB1dCAiT1VUOiAkKCRfLkZ1bGxOYW1lKSAkKCRfLkxlbmd0aCkiIH0KV3JpdGUtT3V0cHV0ICdUUkFJTl9TQ1JJUFRfRE9ORScK
+﻿# run_train.ps1: tegakisk 作風LoRA学習を pc1 で実行する (Colab完走構成の移植、optimizerのみadamwに変更)
+$ErrorActionPreference = 'Continue'
+$train = Join-Path $env:USERPROFILE 'pc1-train'
+$pkgs = Join-Path $train 'pkgs'
+$sds = Join-Path $train 'sd-scripts'
+
+$py = $null
+$hit = Get-ChildItem "$env:LOCALAPPDATA\Comfy-Desktop" -Recurse -Filter 'python.exe' -ErrorAction SilentlyContinue |
+    Where-Object { $_.FullName -notmatch 'node' } | Select-Object -First 1
+if ($hit) { $py = $hit.FullName }
+if (-not $py) { Write-Output 'PYTHON NOT FOUND'; exit 1 }
+
+$modelsDir = $null
+$cfgPath = Join-Path $env:USERPROFILE 'pc1-agent\config.json'
+if (Test-Path $cfgPath) { try { $modelsDir = (Get-Content $cfgPath -Raw | ConvertFrom-Json).modelsDir } catch {} }
+if (-not $modelsDir) {
+    $h = Get-ChildItem "$env:LOCALAPPDATA\Comfy-Desktop" -Directory -Recurse -Depth 6 -Filter 'checkpoints' -ErrorAction SilentlyContinue | Select-Object -First 1
+    if ($h) { $modelsDir = $h.Parent.FullName }
+}
+if (-not $modelsDir) { Write-Output 'MODELS DIR NOT FOUND'; exit 1 }
+$base = Join-Path $modelsDir 'checkpoints\waiNSFWIllustrious_v14.safetensors'
+if (-not (Test-Path $base)) { Write-Output "BASE MODEL NOT FOUND: $base"; exit 1 }
+$dataDir = Join-Path $train 'data'
+$imgCount = (Get-ChildItem (Join-Path $dataDir '5_tegakisk') -Filter '*.jpg' -ErrorAction SilentlyContinue).Count
+Write-Output "python: $py"
+Write-Output "models: $modelsDir"
+Write-Output "dataset images: $imgCount"
+if ($imgCount -lt 10) { Write-Output 'DATASET TOO SMALL'; exit 1 }
+
+$env:PYTHONPATH = "$pkgs;$sds"
+Push-Location $sds
+& $py sdxl_train_network.py `
+  --pretrained_model_name_or_path=$base `
+  --train_data_dir=$dataDir `
+  --resolution=1024,1024 --enable_bucket --min_bucket_reso=512 --max_bucket_reso=1536 --bucket_reso_steps=64 `
+  --output_dir=(Join-Path $modelsDir 'loras') --output_name=tegakisk `
+  --network_module=networks.lora --network_dim=32 --network_alpha=16 `
+  --learning_rate=1e-4 --unet_lr=1e-4 `
+  --lr_scheduler=cosine --lr_warmup_steps=50 `
+  --optimizer_type=adamw --mixed_precision=fp16 --gradient_checkpointing `
+  --cache_latents --cache_text_encoder_outputs --network_train_unet_only `
+  --max_train_epochs=4 --save_every_n_epochs=2 --seed=42 `
+  --full_fp16 --sdpa `
+  --save_model_as=safetensors --flip_aug
+$code = $LASTEXITCODE
+Pop-Location
+Write-Output "train exit: $code"
+Get-ChildItem (Join-Path $modelsDir 'loras') -Filter 'tegakisk*' | ForEach-Object { Write-Output "OUT: $($_.FullName) $($_.Length)" }
+Write-Output 'TRAIN_SCRIPT_DONE'
