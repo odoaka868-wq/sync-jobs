@@ -59,6 +59,19 @@
    "kind": "run",
    "script": "keepawake.ps1",
    "log": "keepawake1"
+  },
+  {
+   "id": "put-comfy-server-setup-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/comfy_server_setup.ps1",
+   "dest": "train",
+   "filename": "comfy_server_setup.ps1"
+  },
+  {
+   "id": "run-comfy-server-setup-1",
+   "kind": "run",
+   "script": "comfy_server_setup.ps1",
+   "log": "comfyserver1"
   }
  ]
 }
