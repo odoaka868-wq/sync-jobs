@@ -1,1 +1,16 @@
-77u/IyBidWlsZF9kYXRhc2V0LnBzMTogQ29tZnlVSeWQjOaisVB5dGhvbuOBpyBidWlsZF9kYXRhc2V0LnB5IOOCkuWun+ihjOOBmeOCiwokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gJ0NvbnRpbnVlJwokdHJhaW4gPSBKb2luLVBhdGggJGVudjpVU0VSUFJPRklMRSAncGMxLXRyYWluJwokcHkgPSAkbnVsbAokcm9vdHMgPSBAKCIkZW52OkxPQ0FMQVBQREFUQVxDb21meS1EZXNrdG9wIikKZm9yZWFjaCAoJHIgaW4gJHJvb3RzKSB7CiAgICBpZiAoVGVzdC1QYXRoICRyKSB7CiAgICAgICAgJGhpdCA9IEdldC1DaGlsZEl0ZW0gJHIgLVJlY3Vyc2UgLUZpbHRlciAncHl0aG9uLmV4ZScgLUVycm9yQWN0aW9uIFNpbGVudGx5Q29udGludWUgfAogICAgICAgICAgICBXaGVyZS1PYmplY3QgeyAkXy5GdWxsTmFtZSAtbm90bWF0Y2ggJ25vZGUnIH0gfCBTZWxlY3QtT2JqZWN0IC1GaXJzdCAxCiAgICAgICAgaWYgKCRoaXQpIHsgJHB5ID0gJGhpdC5GdWxsTmFtZTsgYnJlYWsgfQogICAgfQp9CmlmICgtbm90ICRweSkgeyBXcml0ZS1PdXRwdXQgJ1BZVEhPTiBOT1QgRk9VTkQnOyBleGl0IDEgfQpXcml0ZS1PdXRwdXQgInB5dGhvbjogJHB5IgomICRweSAoSm9pbi1QYXRoICR0cmFpbiAnYnVpbGRfZGF0YXNldC5weScpCldyaXRlLU91dHB1dCAiZXhpdDogJExBU1RFWElUQ09ERSIK
+﻿# build_dataset.ps1: ComfyUI同梱Pythonで build_dataset.py を実行する
+$ErrorActionPreference = 'Continue'
+$train = Join-Path $env:USERPROFILE 'pc1-train'
+$py = $null
+$roots = @("$env:LOCALAPPDATA\Comfy-Desktop")
+foreach ($r in $roots) {
+    if (Test-Path $r) {
+        $hit = Get-ChildItem $r -Recurse -Filter 'python.exe' -ErrorAction SilentlyContinue |
+            Where-Object { $_.FullName -notmatch 'node' } | Select-Object -First 1
+        if ($hit) { $py = $hit.FullName; break }
+    }
+}
+if (-not $py) { Write-Output 'PYTHON NOT FOUND'; exit 1 }
+Write-Output "python: $py"
+& $py (Join-Path $train 'build_dataset.py')
+Write-Output "exit: $LASTEXITCODE"
