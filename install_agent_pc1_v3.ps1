@@ -1,1 +1,142 @@
-77u/IyBwYzEtYWdlbnQgdjMg44Kk44Oz44K544OI44O844OpICgx5Zue44Gg44GR5a6f6KGMKQojIOWGheWuuTogYWdlbnQucHMxIOOCkiB2MyAoZG93bmxvYWQvcHV0L3J1biDlr77lv5wpIOOBq+abtOaWsOOBl+OAgeOCv+OCueOCr+OCueOCseOCuOODpeODvOODqeeZu+mMsuOCkuOChOOCiuebtOOBl+OAgeWIneWbnuWun+ihjOOBvuOBp+ihjOOBhuOAggojIENpdml0YWnjg4jjg7zjgq/jg7Pjga8gdjIg44Gu44KC44Gu44KS44Gd44Gu44G+44G+5byV44GN57aZ44GQICjnhKHjgZHjgozjgbAx5Zue44Gg44GR6IGe44GPKeOAggokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gJ1N0b3AnCiRkaXIgPSBKb2luLVBhdGggJGVudjpVU0VSUFJPRklMRSAncGMxLWFnZW50JwokdHJhaW5EaXIgPSBKb2luLVBhdGggJGVudjpVU0VSUFJPRklMRSAncGMxLXRyYWluJwpOZXctSXRlbSAtSXRlbVR5cGUgRGlyZWN0b3J5IC1Gb3JjZSAtUGF0aCAkZGlyLCAkdHJhaW5EaXIsIChKb2luLVBhdGggJHRyYWluRGlyICdsb2dzJykgfCBPdXQtTnVsbAoKJGFnZW50ID0gQCcKIyBwYzEtYWdlbnQgdjM6IGpvYnMuanNvbiDjgpLopovjgaYgKDEp44Oi44OH44Or6YWN572uICgyKeS9nOalreODleOCoeOCpOODq+mFjee9riAoMynlrabnv5LnrYnjga7jgrnjgq/jg6rjg5fjg4jlrp/ooYwg44KS6KGM44GG5bi46aeQ5L+CCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAnQ29udGludWUnCiRkaXIgPSBKb2luLVBhdGggJGVudjpVU0VSUFJPRklMRSAncGMxLWFnZW50JwokdHJhaW5EaXIgPSBKb2luLVBhdGggJGVudjpVU0VSUFJPRklMRSAncGMxLXRyYWluJwokdHJhaW5Mb2dzID0gSm9pbi1QYXRoICR0cmFpbkRpciAnbG9ncycKTmV3LUl0ZW0gLUl0ZW1UeXBlIERpcmVjdG9yeSAtRm9yY2UgLVBhdGggJHRyYWluRGlyLCAkdHJhaW5Mb2dzIHwgT3V0LU51bGwKJG1hbmlmZXN0VXJsID0gJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9vZG9ha2E4Njgtd3Evc3luYy1qb2JzL21haW4vam9icy5qc29uJwokc3RhdGVQYXRoID0gSm9pbi1QYXRoICRkaXIgJ3N0YXRlLmpzb24nCiRsb2dQYXRoID0gSm9pbi1QYXRoICRkaXIgJ2FnZW50LmxvZycKJHRva2VuUGF0aCA9IEpvaW4tUGF0aCAkZGlyICdjaXZpdGFpX3Rva2VuLnR4dCcKJGNvbmZpZ1BhdGggPSBKb2luLVBhdGggJGRpciAnY29uZmlnLmpzb24nCmZ1bmN0aW9uIExvZygkbXNnKSB7IEFkZC1Db250ZW50IC1QYXRoICRsb2dQYXRoIC1WYWx1ZSAoInswfSB7MX0iIC1mIChHZXQtRGF0ZSAtRm9ybWF0ICd5eXl5LU1NLWRkIEhIOm1tOnNzJyksICRtc2cpIC1FbmNvZGluZyBVVEY4IH0KdHJ5IHsKICAgICRtYW5pZmVzdCA9IEludm9rZS1SZXN0TWV0aG9kIC1VcmkgJG1hbmlmZXN0VXJsIC1UaW1lb3V0U2VjIDMwCn0gY2F0Y2ggeyBMb2cgIm1hbmlmZXN0IGZldGNoIGZhaWxlZDogJCgkXy5FeGNlcHRpb24uTWVzc2FnZSkiOyByZXR1cm4gfQppZiAoLW5vdCAkbWFuaWZlc3Quam9icykgeyByZXR1cm4gfQokc3RhdGUgPSBAe30KaWYgKFRlc3QtUGF0aCAkc3RhdGVQYXRoKSB7IHRyeSB7ICRzdGF0ZSA9IEdldC1Db250ZW50ICRzdGF0ZVBhdGggLVJhdyB8IENvbnZlcnRGcm9tLUpzb24gLUFzSGFzaHRhYmxlIH0gY2F0Y2ggeyAkc3RhdGUgPSBAe30gfSB9CiMgbW9kZWxzIOODleOCqeODq+ODgOOBrueJueWumiAoY29uZmlnIOOBq+OCreODo+ODg+OCt+ODpeOAgeeEoeOBkeOCjOOBsOaOoue0oikKJG1vZGVsc0RpciA9ICRudWxsCmlmIChUZXN0LVBhdGggJGNvbmZpZ1BhdGgpIHsgdHJ5IHsgJG1vZGVsc0RpciA9IChHZXQtQ29udGVudCAkY29uZmlnUGF0aCAtUmF3IHwgQ29udmVydEZyb20tSnNvbikubW9kZWxzRGlyIH0gY2F0Y2gge30gfQppZiAoLW5vdCAkbW9kZWxzRGlyIC1vciAtbm90IChUZXN0LVBhdGggJG1vZGVsc0RpcikpIHsKICAgICRjYW5kaWRhdGVzID0gQCgiJGVudjpMT0NBTEFQUERBVEFcQ29tZnktRGVza3RvcFxDb21meVVJLUluc3RhbGxzXENvbWZ5VUlcQ29tZnlVSVxtb2RlbHMiLCAiJGVudjpMT0NBTEFQUERBVEFcQ29tZnktRGVza3RvcCIsICIkZW52OlVTRVJQUk9GSUxFXERvY3VtZW50cyIsICIkZW52OlVTRVJQUk9GSUxFXENvbWZ5VUkiKQogICAgZm9yZWFjaCAoJGMgaW4gJGNhbmRpZGF0ZXMpIHsKICAgICAgICBpZiAoVGVzdC1QYXRoICRjKSB7CiAgICAgICAgICAgICRoaXQgPSBHZXQtQ2hpbGRJdGVtICRjIC1EaXJlY3RvcnkgLVJlY3Vyc2UgLURlcHRoIDYgLUZpbHRlciAnY2hlY2twb2ludHMnIC1FcnJvckFjdGlvbiBTaWxlbnRseUNvbnRpbnVlIHwgU2VsZWN0LU9iamVjdCAtRmlyc3QgMQogICAgICAgICAgICBpZiAoJGhpdCkgeyAkbW9kZWxzRGlyID0gJGhpdC5QYXJlbnQuRnVsbE5hbWU7IGJyZWFrIH0KICAgICAgICB9CiAgICB9CiAgICBpZiAoJG1vZGVsc0RpcikgeyBAeyBtb2RlbHNEaXIgPSAkbW9kZWxzRGlyIH0gfCBDb252ZXJ0VG8tSnNvbiB8IFNldC1Db250ZW50ICRjb25maWdQYXRoIC1FbmNvZGluZyBVVEY4IH0KfQppZiAoLW5vdCAkbW9kZWxzRGlyKSB7IExvZyAnbW9kZWxzIGRpciBub3QgZm91bmQnOyByZXR1cm4gfQokY29tZnlSb290ID0gU3BsaXQtUGF0aCAkbW9kZWxzRGlyIC1QYXJlbnQKJGFnZW50TG9nT3V0ID0gSm9pbi1QYXRoICRjb21meVJvb3QgJ291dHB1dFxhZ2VudGxvZ3MnCk5ldy1JdGVtIC1JdGVtVHlwZSBEaXJlY3RvcnkgLUZvcmNlIC1QYXRoICRhZ2VudExvZ091dCB8IE91dC1OdWxsCiRhbGxvd2VkRGVzdCA9IEAoJ2NoZWNrcG9pbnRzJywnbG9yYXMnLCd2YWUnLCd1bmV0JywnY29udHJvbG5ldCcsJ3Vwc2NhbGVfbW9kZWxzJywnZW1iZWRkaW5ncycsJ2NsaXAnKQokYWxsb3dlZEhvc3RzID0gQCgnaHVnZ2luZ2ZhY2UuY28nLCdjZG4tbGZzLmh1Z2dpbmdmYWNlLmNvJywnY2l2aXRhaS5jb20nLCdyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJywnZ2l0aHViLmNvbScsJ2NvZGVsb2FkLmdpdGh1Yi5jb20nKQpmdW5jdGlvbiBTYXZlLVN0YXRlIHsgJHN0YXRlIHwgQ29udmVydFRvLUpzb24gfCBTZXQtQ29udGVudCAkc3RhdGVQYXRoIC1FbmNvZGluZyBVVEY4IH0KZnVuY3Rpb24gRmV0Y2gtRmlsZSgkam9iLCAkZGVzdCkgewogICAgJHRtcCA9ICIkZGVzdC5wYXJ0IgogICAgJGFyZ3MgPSBAKCctTCcsJy0tcmV0cnknLCczJywnLW8nLCR0bXApCiAgICBpZiAoJGpvYi5hdXRoIC1lcSAnY2l2aXRhaScpIHsKICAgICAgICBpZiAoLW5vdCAoVGVzdC1QYXRoICR0b2tlblBhdGgpKSB7IHRocm93ICdubyBjaXZpdGFpIHRva2VuJyB9CiAgICAgICAgJHRvayA9IChHZXQtQ29udGVudCAkdG9rZW5QYXRoIC1SYXcpLlRyaW0oKQogICAgICAgICRhcmdzICs9IEAoJy1IJywgIkF1dGhvcml6YXRpb246IEJlYXJlciAkdG9rIikKICAgIH0KICAgICRhcmdzICs9IFtzdHJpbmddJGpvYi51cmwKICAgICYgY3VybC5leGUgQGFyZ3MKICAgIGlmICgkTEFTVEVYSVRDT0RFIC1uZSAwKSB7IHRocm93ICJjdXJsIGV4aXQgJExBU1RFWElUQ09ERSIgfQogICAgaWYgKCRqb2Iuc2l6ZV9ieXRlcyAtYW5kICgoR2V0LUl0ZW0gJHRtcCkuTGVuZ3RoIC1uZSBbaW50NjRdJGpvYi5zaXplX2J5dGVzKSkgeyB0aHJvdyAic2l6ZSBtaXNtYXRjaDogJCgoR2V0LUl0ZW0gJHRtcCkuTGVuZ3RoKSB2cyAkKCRqb2Iuc2l6ZV9ieXRlcykiIH0KICAgIE1vdmUtSXRlbSAtRm9yY2UgJHRtcCAkZGVzdAp9CiMg5a6f6KGM5LitIHJ1biDjgrjjg6fjg5bjga7lrozkuobnorroqo0KZm9yZWFjaCAoJGtleSBpbiBAKCRzdGF0ZS5LZXlzKSkgewogICAgJHZhbCA9IFtzdHJpbmddJHN0YXRlWyRrZXldCiAgICBpZiAoJHZhbCAtbGlrZSAncnVubmluZzoqJykgewogICAgICAgICRwYXJ0cyA9ICR2YWwuU3BsaXQoJzonKQogICAgICAgICRwaWROdW0gPSBbaW50XSRwYXJ0c1sxXQogICAgICAgICRsb2dOYW1lID0gJHBhcnRzWzJdCiAgICAgICAgaWYgKC1ub3QgKEdldC1Qcm9jZXNzIC1JZCAkcGlkTnVtIC1FcnJvckFjdGlvbiBTaWxlbnRseUNvbnRpbnVlKSkgewogICAgICAgICAgICBmb3JlYWNoICgkZXh0IGluIEAoJ291dCcsJ2VycicpKSB7CiAgICAgICAgICAgICAgICAkc3JjID0gSm9pbi1QYXRoICR0cmFpbkxvZ3MgIiRsb2dOYW1lLiRleHQudHh0IgogICAgICAgICAgICAgICAgaWYgKFRlc3QtUGF0aCAkc3JjKSB7IENvcHktSXRlbSAkc3JjIChKb2luLVBhdGggJGFnZW50TG9nT3V0ICIkbG9nTmFtZS4kZXh0LnR4dCIpIC1Gb3JjZSB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJHN0YXRlWyRrZXldID0gKEdldC1EYXRlIC1Gb3JtYXQgJ3MnKQogICAgICAgICAgICBMb2cgInJ1biBmaW5pc2hlZCAka2V5IChwaWQgJHBpZE51bSksIGxvZ3MgY29waWVkIgogICAgICAgIH0KICAgIH0KfQpTYXZlLVN0YXRlCmZvcmVhY2ggKCRqb2IgaW4gJG1hbmlmZXN0LmpvYnMpIHsKICAgIGlmICgkc3RhdGUuQ29udGFpbnNLZXkoJGpvYi5pZCkpIHsgY29udGludWUgfQogICAgJGtpbmQgPSBpZiAoJGpvYi5raW5kKSB7IFtzdHJpbmddJGpvYi5raW5kIH0gZWxzZSB7ICdkb3dubG9hZCcgfQogICAgdHJ5IHsKICAgICAgICBpZiAoJGtpbmQgLWVxICdkb3dubG9hZCcpIHsKICAgICAgICAgICAgJGZuYW1lID0gW0lPLlBhdGhdOjpHZXRGaWxlTmFtZShbc3RyaW5nXSRqb2IuZmlsZW5hbWUpCiAgICAgICAgICAgIGlmICgkYWxsb3dlZERlc3QgLW5vdGNvbnRhaW5zIFtzdHJpbmddJGpvYi5kZXN0KSB7IExvZyAic2tpcCAkKCRqb2IuaWQpOiBkZXN0IG5vdCBhbGxvd2VkIjsgY29udGludWUgfQogICAgICAgICAgICAkdSA9IFtVcmldKFtzdHJpbmddJGpvYi51cmwpCiAgICAgICAgICAgIGlmICgkYWxsb3dlZEhvc3RzIC1ub3Rjb250YWlucyAkdS5Ib3N0KSB7IExvZyAic2tpcCAkKCRqb2IuaWQpOiBob3N0IG5vdCBhbGxvd2VkICQoJHUuSG9zdCkiOyBjb250aW51ZSB9CiAgICAgICAgICAgICRkZXN0RGlyID0gSm9pbi1QYXRoICRtb2RlbHNEaXIgKFtzdHJpbmddJGpvYi5kZXN0KQogICAgICAgICAgICBOZXctSXRlbSAtSXRlbVR5cGUgRGlyZWN0b3J5IC1Gb3JjZSAtUGF0aCAkZGVzdERpciB8IE91dC1OdWxsCiAgICAgICAgICAgICRkZXN0ID0gSm9pbi1QYXRoICRkZXN0RGlyICRmbmFtZQogICAgICAgICAgICBGZXRjaC1GaWxlICRqb2IgJGRlc3QKICAgICAgICAgICAgJHN0YXRlWyRqb2IuaWRdID0gKEdldC1EYXRlIC1Gb3JtYXQgJ3MnKQogICAgICAgICAgICBMb2cgImRvbmUgJCgkam9iLmlkKSAtPiAkZGVzdCIKICAgICAgICB9IGVsc2VpZiAoJGtpbmQgLWVxICdwdXQnKSB7CiAgICAgICAgICAgICRmbmFtZSA9IFtJTy5QYXRoXTo6R2V0RmlsZU5hbWUoW3N0cmluZ10kam9iLmZpbGVuYW1lKQogICAgICAgICAgICAkdSA9IFtVcmldKFtzdHJpbmddJGpvYi51cmwpCiAgICAgICAgICAgIGlmICgkYWxsb3dlZEhvc3RzIC1ub3Rjb250YWlucyAkdS5Ib3N0KSB7IExvZyAic2tpcCAkKCRqb2IuaWQpOiBob3N0IG5vdCBhbGxvd2VkICQoJHUuSG9zdCkiOyBjb250aW51ZSB9CiAgICAgICAgICAgICRiYXNlID0gaWYgKFtzdHJpbmddJGpvYi5kZXN0IC1lcSAnYWdlbnQnKSB7ICRkaXIgfSBlbHNlIHsgJHRyYWluRGlyIH0KICAgICAgICAgICAgJGRlc3QgPSBKb2luLVBhdGggJGJhc2UgJGZuYW1lCiAgICAgICAgICAgIEZldGNoLUZpbGUgJGpvYiAkZGVzdAogICAgICAgICAgICAkc3RhdGVbJGpvYi5pZF0gPSAoR2V0LURhdGUgLUZvcm1hdCAncycpCiAgICAgICAgICAgIExvZyAicHV0ICQoJGpvYi5pZCkgLT4gJGRlc3QiCiAgICAgICAgfSBlbHNlaWYgKCRraW5kIC1lcSAncnVuJykgewogICAgICAgICAgICAkc2NyaXB0ID0gSm9pbi1QYXRoICR0cmFpbkRpciAoW0lPLlBhdGhdOjpHZXRGaWxlTmFtZShbc3RyaW5nXSRqb2Iuc2NyaXB0KSkKICAgICAgICAgICAgaWYgKC1ub3QgKFRlc3QtUGF0aCAkc2NyaXB0KSkgeyBMb2cgInNraXAgJCgkam9iLmlkKTogc2NyaXB0IG5vdCBmb3VuZCAkc2NyaXB0IjsgY29udGludWUgfQogICAgICAgICAgICAkbG9nTmFtZSA9IGlmICgkam9iLmxvZykgeyBbc3RyaW5nXSRqb2IubG9nIH0gZWxzZSB7IFtzdHJpbmddJGpvYi5pZCB9CiAgICAgICAgICAgICRvdXRMb2cgPSBKb2luLVBhdGggJHRyYWluTG9ncyAiJGxvZ05hbWUub3V0LnR4dCIKICAgICAgICAgICAgJGVyckxvZyA9IEpvaW4tUGF0aCAkdHJhaW5Mb2dzICIkbG9nTmFtZS5lcnIudHh0IgogICAgICAgICAgICAkcHJvYyA9IFN0YXJ0LVByb2Nlc3MgLUZpbGVQYXRoICdwb3dlcnNoZWxsLmV4ZScgLUFyZ3VtZW50TGlzdCBAKCctTm9Qcm9maWxlJywnLUV4ZWN1dGlvblBvbGljeScsJ0J5cGFzcycsJy1GaWxlJywgJHNjcmlwdCkgLVdvcmtpbmdEaXJlY3RvcnkgJHRyYWluRGlyIC1SZWRpcmVjdFN0YW5kYXJkT3V0cHV0ICRvdXRMb2cgLVJlZGlyZWN0U3RhbmRhcmRFcnJvciAkZXJyTG9nIC1XaW5kb3dTdHlsZSBIaWRkZW4gLVBhc3NUaHJ1CiAgICAgICAgICAgICRzdGF0ZVskam9iLmlkXSA9ICJydW5uaW5nOiQoJHByb2MuSWQpOiRsb2dOYW1lIgogICAgICAgICAgICBMb2cgInJ1biBzdGFydGVkICQoJGpvYi5pZCkgcGlkICQoJHByb2MuSWQpIHNjcmlwdCAkc2NyaXB0IgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIExvZyAic2tpcCAkKCRqb2IuaWQpOiB1bmtub3duIGtpbmQgJGtpbmQiCiAgICAgICAgfQogICAgfSBjYXRjaCB7CiAgICAgICAgTG9nICJGQUlMRUQgJCgkam9iLmlkKTogJCgkXy5FeGNlcHRpb24uTWVzc2FnZSkiCiAgICB9CiAgICBTYXZlLVN0YXRlCn0KU2F2ZS1TdGF0ZQonQApTZXQtQ29udGVudCAtUGF0aCAoSm9pbi1QYXRoICRkaXIgJ2FnZW50LnBzMScpIC1WYWx1ZSAkYWdlbnQgLUVuY29kaW5nIFVURjgKV3JpdGUtSG9zdCAiYWdlbnQgdjMgaW5zdGFsbGVkOiAkZGlyXGFnZW50LnBzMSIKCmlmICgtbm90IChUZXN0LVBhdGggKEpvaW4tUGF0aCAkZGlyICdjaXZpdGFpX3Rva2VuLnR4dCcpKSkgewogICAgJHRvayA9IFJlYWQtSG9zdCAnQ2l2aXRhaSBBUEkgdG9rZW4gKDHlm57jgaDjgZHlhaXlipvjgZfjgb7jgZkpJwogICAgU2V0LUNvbnRlbnQgLVBhdGggKEpvaW4tUGF0aCAkZGlyICdjaXZpdGFpX3Rva2VuLnR4dCcpIC1WYWx1ZSAkdG9rLlRyaW0oKSAtRW5jb2RpbmcgYXNjaWkKICAgIFdyaXRlLUhvc3QgJ3Rva2VuIHNhdmVkJwp9IGVsc2UgewogICAgV3JpdGUtSG9zdCAnY2l2aXRhaSB0b2tlbjogZXhpc3RpbmcgZmlsZSByZXVzZWQnCn0KCiRhY3Rpb24gPSAicG93ZXJzaGVsbC5leGUgLU5vUHJvZmlsZSAtRXhlY3V0aW9uUG9saWN5IEJ5cGFzcyAtV2luZG93U3R5bGUgSGlkZGVuIC1GaWxlIGAiJGRpclxhZ2VudC5wczFgIiIKc2NodGFza3MgL0NyZWF0ZSAvRiAvVE4gJ3BjMS1hZ2VudCcgL1RSICRhY3Rpb24gL1NDIE1JTlVURSAvTU8gNSB8IE91dC1OdWxsCldyaXRlLUhvc3QgJ3NjaGVkdWxlZCB0YXNrIHBjMS1hZ2VudCByZWdpc3RlcmVkIChldmVyeSA1IG1pbiknCgomIHBvd2Vyc2hlbGwuZXhlIC1Ob1Byb2ZpbGUgLUV4ZWN1dGlvblBvbGljeSBCeXBhc3MgLUZpbGUgKEpvaW4tUGF0aCAkZGlyICdhZ2VudC5wczEnKQpXcml0ZS1Ib3N0ICdmaXJzdCBydW4gZG9uZS4gYWdlbnQubG9nOicKR2V0LUNvbnRlbnQgKEpvaW4tUGF0aCAkZGlyICdhZ2VudC5sb2cnKSAtVGFpbCA1CldyaXRlLUhvc3QgJycKV3JpdGUtSG9zdCAnPT0gdjMgaW5zdGFsbCBjb21wbGV0ZSA9PScK
+﻿# pc1-agent v3 インストーラ (1回だけ実行)
+# 内容: agent.ps1 を v3 (download/put/run 対応) に更新し、タスクスケジューラ登録をやり直し、初回実行まで行う。
+# Civitaiトークンは v2 のものをそのまま引き継ぐ (無ければ1回だけ聞く)。
+$ErrorActionPreference = 'Stop'
+$dir = Join-Path $env:USERPROFILE 'pc1-agent'
+$trainDir = Join-Path $env:USERPROFILE 'pc1-train'
+New-Item -ItemType Directory -Force -Path $dir, $trainDir, (Join-Path $trainDir 'logs') | Out-Null
+
+$agent = @'
+# pc1-agent v3: jobs.json を見て (1)モデル配置 (2)作業ファイル配置 (3)学習等のスクリプト実行 を行う常駐係
+$ErrorActionPreference = 'Continue'
+$dir = Join-Path $env:USERPROFILE 'pc1-agent'
+$trainDir = Join-Path $env:USERPROFILE 'pc1-train'
+$trainLogs = Join-Path $trainDir 'logs'
+New-Item -ItemType Directory -Force -Path $trainDir, $trainLogs | Out-Null
+$manifestUrl = 'https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/jobs.json'
+$statePath = Join-Path $dir 'state.json'
+$logPath = Join-Path $dir 'agent.log'
+$tokenPath = Join-Path $dir 'civitai_token.txt'
+$configPath = Join-Path $dir 'config.json'
+function Log($msg) { Add-Content -Path $logPath -Value ("{0} {1}" -f (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'), $msg) -Encoding UTF8 }
+try {
+    $manifest = Invoke-RestMethod -Uri $manifestUrl -TimeoutSec 30
+} catch { Log "manifest fetch failed: $($_.Exception.Message)"; return }
+if (-not $manifest.jobs) { return }
+$state = @{}
+if (Test-Path $statePath) { try { $state = Get-Content $statePath -Raw | ConvertFrom-Json -AsHashtable } catch { $state = @{} } }
+# models フォルダの特定 (config にキャッシュ、無ければ探索)
+$modelsDir = $null
+if (Test-Path $configPath) { try { $modelsDir = (Get-Content $configPath -Raw | ConvertFrom-Json).modelsDir } catch {} }
+if (-not $modelsDir -or -not (Test-Path $modelsDir)) {
+    $candidates = @("$env:LOCALAPPDATA\Comfy-Desktop\ComfyUI-Installs\ComfyUI\ComfyUI\models", "$env:LOCALAPPDATA\Comfy-Desktop", "$env:USERPROFILE\Documents", "$env:USERPROFILE\ComfyUI")
+    foreach ($c in $candidates) {
+        if (Test-Path $c) {
+            $hit = Get-ChildItem $c -Directory -Recurse -Depth 6 -Filter 'checkpoints' -ErrorAction SilentlyContinue | Select-Object -First 1
+            if ($hit) { $modelsDir = $hit.Parent.FullName; break }
+        }
+    }
+    if ($modelsDir) { @{ modelsDir = $modelsDir } | ConvertTo-Json | Set-Content $configPath -Encoding UTF8 }
+}
+if (-not $modelsDir) { Log 'models dir not found'; return }
+$comfyRoot = Split-Path $modelsDir -Parent
+$agentLogOut = Join-Path $comfyRoot 'output\agentlogs'
+New-Item -ItemType Directory -Force -Path $agentLogOut | Out-Null
+$allowedDest = @('checkpoints','loras','vae','unet','controlnet','upscale_models','embeddings','clip')
+$allowedHosts = @('huggingface.co','cdn-lfs.huggingface.co','civitai.com','raw.githubusercontent.com','github.com','codeload.github.com')
+function Save-State { $state | ConvertTo-Json | Set-Content $statePath -Encoding UTF8 }
+function Fetch-File($job, $dest) {
+    $tmp = "$dest.part"
+    $args = @('-L','--retry','3','-o',$tmp)
+    if ($job.auth -eq 'civitai') {
+        if (-not (Test-Path $tokenPath)) { throw 'no civitai token' }
+        $tok = (Get-Content $tokenPath -Raw).Trim()
+        $args += @('-H', "Authorization: Bearer $tok")
+    }
+    $args += [string]$job.url
+    & curl.exe @args
+    if ($LASTEXITCODE -ne 0) { throw "curl exit $LASTEXITCODE" }
+    if ($job.size_bytes -and ((Get-Item $tmp).Length -ne [int64]$job.size_bytes)) { throw "size mismatch: $((Get-Item $tmp).Length) vs $($job.size_bytes)" }
+    Move-Item -Force $tmp $dest
+}
+# 実行中 run ジョブの完了確認
+foreach ($key in @($state.Keys)) {
+    $val = [string]$state[$key]
+    if ($val -like 'running:*') {
+        $parts = $val.Split(':')
+        $pidNum = [int]$parts[1]
+        $logName = $parts[2]
+        if (-not (Get-Process -Id $pidNum -ErrorAction SilentlyContinue)) {
+            foreach ($ext in @('out','err')) {
+                $src = Join-Path $trainLogs "$logName.$ext.txt"
+                if (Test-Path $src) { Copy-Item $src (Join-Path $agentLogOut "$logName.$ext.txt") -Force }
+            }
+            $state[$key] = (Get-Date -Format 's')
+            Log "run finished $key (pid $pidNum), logs copied"
+        }
+    }
+}
+Save-State
+foreach ($job in $manifest.jobs) {
+    if ($state.ContainsKey($job.id)) { continue }
+    $kind = if ($job.kind) { [string]$job.kind } else { 'download' }
+    try {
+        if ($kind -eq 'download') {
+            $fname = [IO.Path]::GetFileName([string]$job.filename)
+            if ($allowedDest -notcontains [string]$job.dest) { Log "skip $($job.id): dest not allowed"; continue }
+            $u = [Uri]([string]$job.url)
+            if ($allowedHosts -notcontains $u.Host) { Log "skip $($job.id): host not allowed $($u.Host)"; continue }
+            $destDir = Join-Path $modelsDir ([string]$job.dest)
+            New-Item -ItemType Directory -Force -Path $destDir | Out-Null
+            $dest = Join-Path $destDir $fname
+            Fetch-File $job $dest
+            $state[$job.id] = (Get-Date -Format 's')
+            Log "done $($job.id) -> $dest"
+        } elseif ($kind -eq 'put') {
+            $fname = [IO.Path]::GetFileName([string]$job.filename)
+            $u = [Uri]([string]$job.url)
+            if ($allowedHosts -notcontains $u.Host) { Log "skip $($job.id): host not allowed $($u.Host)"; continue }
+            $base = if ([string]$job.dest -eq 'agent') { $dir } else { $trainDir }
+            $dest = Join-Path $base $fname
+            Fetch-File $job $dest
+            $state[$job.id] = (Get-Date -Format 's')
+            Log "put $($job.id) -> $dest"
+        } elseif ($kind -eq 'run') {
+            $script = Join-Path $trainDir ([IO.Path]::GetFileName([string]$job.script))
+            if (-not (Test-Path $script)) { Log "skip $($job.id): script not found $script"; continue }
+            $logName = if ($job.log) { [string]$job.log } else { [string]$job.id }
+            $outLog = Join-Path $trainLogs "$logName.out.txt"
+            $errLog = Join-Path $trainLogs "$logName.err.txt"
+            $proc = Start-Process -FilePath 'powershell.exe' -ArgumentList @('-NoProfile','-ExecutionPolicy','Bypass','-File', $script) -WorkingDirectory $trainDir -RedirectStandardOutput $outLog -RedirectStandardError $errLog -WindowStyle Hidden -PassThru
+            $state[$job.id] = "running:$($proc.Id):$logName"
+            Log "run started $($job.id) pid $($proc.Id) script $script"
+        } else {
+            Log "skip $($job.id): unknown kind $kind"
+        }
+    } catch {
+        Log "FAILED $($job.id): $($_.Exception.Message)"
+    }
+    Save-State
+}
+Save-State
+'@
+Set-Content -Path (Join-Path $dir 'agent.ps1') -Value $agent -Encoding UTF8
+Write-Host "agent v3 installed: $dir\agent.ps1"
+
+if (-not (Test-Path (Join-Path $dir 'civitai_token.txt'))) {
+    $tok = Read-Host 'Civitai API token (1回だけ入力します)'
+    Set-Content -Path (Join-Path $dir 'civitai_token.txt') -Value $tok.Trim() -Encoding ascii
+    Write-Host 'token saved'
+} else {
+    Write-Host 'civitai token: existing file reused'
+}
+
+$action = "powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$dir\agent.ps1`""
+schtasks /Create /F /TN 'pc1-agent' /TR $action /SC MINUTE /MO 5 | Out-Null
+Write-Host 'scheduled task pc1-agent registered (every 5 min)'
+
+& powershell.exe -NoProfile -ExecutionPolicy Bypass -File (Join-Path $dir 'agent.ps1')
+Write-Host 'first run done. agent.log:'
+Get-Content (Join-Path $dir 'agent.log') -Tail 5
+Write-Host ''
+Write-Host '== v3 install complete =='
