@@ -5,7 +5,7 @@ from PIL import Image
 BASE = os.path.join(os.path.expanduser('~'), 'pc1-train')
 DROP = os.path.join(BASE, 'drop')
 RAW = os.path.join(BASE, 'raw')
-DATA = os.path.join(BASE, 'data', '5_tegakisk')
+DATA = os.path.join(BASE, 'data', '1_tegakisk')
 os.makedirs(DROP, exist_ok=True)
 os.makedirs(RAW, exist_ok=True)
 os.makedirs(DATA, exist_ok=True)
