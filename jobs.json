@@ -99,6 +99,13 @@
    "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/ingest_drop.py",
    "dest": "train",
    "filename": "ingest_drop.py"
+  },
+  {
+   "id": "put-agent-fix-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/agent_body_v31.ps1",
+   "dest": "agent",
+   "filename": "agent.ps1"
   }
  ]
 }
