@@ -183,6 +183,19 @@
    "kind": "run",
    "script": "run_train2.ps1",
    "log": "train2"
+  },
+  {
+   "id": "put-setup-fix2-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/setup_fix2.ps1",
+   "dest": "train",
+   "filename": "setup_fix2.ps1"
+  },
+  {
+   "id": "run-setup-fix2-1",
+   "kind": "run",
+   "script": "setup_fix2.ps1",
+   "log": "setupfix2"
   }
  ]
 }
