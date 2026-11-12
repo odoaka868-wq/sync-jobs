@@ -1,1 +1,51 @@
-{"jobs": [{"id": "fix-novuschroma43-684551", "url": "https://civitai.com/api/download/models/684551", "dest": "loras", "filename": "novuschroma43_style.safetensors", "auth": "civitai"}, {"id": "fix2-novuschroma43-684551", "url": "https://civitai.com/api/download/models/684551", "dest": "loras", "filename": "novuschroma43_style.safetensors", "auth": "civitai"}]}
+{
+ "jobs": [
+  {
+   "id": "fix-novuschroma43-684551",
+   "url": "https://civitai.com/api/download/models/684551",
+   "dest": "loras",
+   "filename": "novuschroma43_style.safetensors",
+   "auth": "civitai"
+  },
+  {
+   "id": "fix2-novuschroma43-684551",
+   "url": "https://civitai.com/api/download/models/684551",
+   "dest": "loras",
+   "filename": "novuschroma43_style.safetensors",
+   "auth": "civitai"
+  },
+  {
+   "id": "put-setup-train-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/setup_train.ps1",
+   "dest": "train",
+   "filename": "setup_train.ps1"
+  },
+  {
+   "id": "run-setup-train-1",
+   "kind": "run",
+   "script": "setup_train.ps1",
+   "log": "setup1"
+  },
+  {
+   "id": "put-build-dataset-ps1-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/build_dataset.ps1",
+   "dest": "train",
+   "filename": "build_dataset.ps1"
+  },
+  {
+   "id": "put-build-dataset-py-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/build_dataset.py",
+   "dest": "train",
+   "filename": "build_dataset.py"
+  },
+  {
+   "id": "run-build-dataset-1",
+   "kind": "run",
+   "script": "build_dataset.ps1",
+   "log": "dataset1"
+  }
+ ]
+}
