@@ -92,6 +92,19 @@
    "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/agent_body_v31.ps1",
    "dest": "agent",
    "filename": "agent.ps1"
+  },
+  {
+   "id": "put-setup-fix-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/setup_fix.ps1",
+   "dest": "train",
+   "filename": "setup_fix.ps1"
+  },
+  {
+   "id": "run-setup-fix-1",
+   "kind": "run",
+   "script": "setup_fix.ps1",
+   "log": "setupfix1"
   }
  ]
 }
