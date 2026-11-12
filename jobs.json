@@ -124,6 +124,12 @@
    "kind": "run",
    "script": "keepawake.ps1",
    "log": "keepawake2"
+  },
+  {
+   "id": "run-ingest-1",
+   "kind": "run",
+   "script": "ingest_drop.ps1",
+   "log": "ingest1"
   }
  ]
 }
