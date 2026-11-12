@@ -72,6 +72,19 @@
    "kind": "run",
    "script": "comfy_server_setup.ps1",
    "log": "comfyserver1"
+  },
+  {
+   "id": "put-probe-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/probe.ps1",
+   "dest": "train",
+   "filename": "probe.ps1"
+  },
+  {
+   "id": "run-probe-1",
+   "kind": "run",
+   "script": "probe.ps1",
+   "log": "probe1"
   }
  ]
 }
