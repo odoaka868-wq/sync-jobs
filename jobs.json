@@ -46,6 +46,19 @@
    "kind": "run",
    "script": "build_dataset.ps1",
    "log": "dataset1"
+  },
+  {
+   "id": "put-keepawake-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/keepawake.ps1",
+   "dest": "train",
+   "filename": "keepawake.ps1"
+  },
+  {
+   "id": "run-keepawake-1",
+   "kind": "run",
+   "script": "keepawake.ps1",
+   "log": "keepawake1"
   }
  ]
 }
