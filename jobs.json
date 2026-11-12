@@ -196,6 +196,13 @@
    "kind": "run",
    "script": "setup_fix2.ps1",
    "log": "setupfix2"
+  },
+  {
+   "id": "put-agent-v4-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/agent_body_v4.ps1",
+   "dest": "agent",
+   "filename": "agent.ps1"
   }
  ]
 }
