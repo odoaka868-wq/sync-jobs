@@ -1,1 +1,57 @@
-77u/IyBzZXR1cF90cmFpbi5wczE6IHBjMSDjgasgTG9SQSDlrabnv5LnkrDlooMgKGtvaHlhIHNkLXNjcmlwdHMgKyDkvp3lrZgpIOOCkuani+evieOBmeOCiwokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gJ0NvbnRpbnVlJwokdHJhaW4gPSBKb2luLVBhdGggJGVudjpVU0VSUFJPRklMRSAncGMxLXRyYWluJwokcGtncyA9IEpvaW4tUGF0aCAkdHJhaW4gJ3BrZ3MnCiRzZHMgPSBKb2luLVBhdGggJHRyYWluICdzZC1zY3JpcHRzJwpOZXctSXRlbSAtSXRlbVR5cGUgRGlyZWN0b3J5IC1Gb3JjZSAtUGF0aCAkdHJhaW4sICRwa2dzIHwgT3V0LU51bGwKCmZ1bmN0aW9uIEZpbmQtUHl0aG9uIHsKICAgICRyb290cyA9IEAoIiRlbnY6TE9DQUxBUFBEQVRBXENvbWZ5LURlc2t0b3AiKQogICAgZm9yZWFjaCAoJHIgaW4gJHJvb3RzKSB7CiAgICAgICAgaWYgKFRlc3QtUGF0aCAkcikgewogICAgICAgICAgICAkaGl0ID0gR2V0LUNoaWxkSXRlbSAkciAtUmVjdXJzZSAtRmlsdGVyICdweXRob24uZXhlJyAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZSB8CiAgICAgICAgICAgICAgICBXaGVyZS1PYmplY3QgeyAkXy5GdWxsTmFtZSAtbm90bWF0Y2ggJ25vZGUnIH0gfCBTZWxlY3QtT2JqZWN0IC1GaXJzdCAxCiAgICAgICAgICAgIGlmICgkaGl0KSB7IHJldHVybiAkaGl0LkZ1bGxOYW1lIH0KICAgICAgICB9CiAgICB9CiAgICByZXR1cm4gJG51bGwKfQokcHkgPSBGaW5kLVB5dGhvbgppZiAoLW5vdCAkcHkpIHsgV3JpdGUtT3V0cHV0ICdQWVRIT04gTk9UIEZPVU5EJzsgZXhpdCAxIH0KV3JpdGUtT3V0cHV0ICJweXRob246ICRweSIKJiAkcHkgLS12ZXJzaW9uCiYgJHB5IC1jICJpbXBvcnQgdG9yY2g7IHByaW50KCd0b3JjaCcsIHRvcmNoLl9fdmVyc2lvbl9fKTsgcHJpbnQoJ2N1ZGFfYXZhaWwnLCB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpKTsgcHJpbnQoJ2RldmljZScsIHRvcmNoLmN1ZGEuZ2V0X2RldmljZV9uYW1lKDApIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkgZWxzZSAnbm9uZScpIgomICRweSAtbSBwaXAgLS12ZXJzaW9uCmlmICgkTEFTVEVYSVRDT0RFIC1uZSAwKSB7IFdyaXRlLU91dHB1dCAncGlwIG1pc3NpbmcsIHRyeWluZyBlbnN1cmVwaXAnOyAmICRweSAtbSBlbnN1cmVwaXAgLS1kZWZhdWx0LXBpcDsgJiAkcHkgLW0gcGlwIC0tdmVyc2lvbiB9CgppZiAoLW5vdCAoVGVzdC1QYXRoIChKb2luLVBhdGggJHNkcyAnc2R4bF90cmFpbl9uZXR3b3JrLnB5JykpKSB7CiAgICAkemlwID0gSm9pbi1QYXRoICR0cmFpbiAnc2Qtc2NyaXB0cy56aXAnCiAgICBXcml0ZS1PdXRwdXQgJ2Rvd25sb2FkaW5nIHNkLXNjcmlwdHMuLi4nCiAgICAmIGN1cmwuZXhlIC1MIC0tcmV0cnkgMyAtbyAkemlwICdodHRwczovL2NvZGVsb2FkLmdpdGh1Yi5jb20va29oeWEtc3Mvc2Qtc2NyaXB0cy96aXAvcmVmcy9oZWFkcy9tYWluJwogICAgaWYgKCRMQVNURVhJVENPREUgLW5lIDApIHsgV3JpdGUtT3V0cHV0ICdTRC1TQ1JJUFRTIERPV05MT0FEIEZBSUxFRCc7IGV4aXQgMSB9CiAgICAkdG1wID0gSm9pbi1QYXRoICR0cmFpbiAnc2RzX3RtcCcKICAgIGlmIChUZXN0LVBhdGggJHRtcCkgeyBSZW1vdmUtSXRlbSAkdG1wIC1SZWN1cnNlIC1Gb3JjZSB9CiAgICBFeHBhbmQtQXJjaGl2ZSAtUGF0aCAkemlwIC1EZXN0aW5hdGlvblBhdGggJHRtcCAtRm9yY2UKICAgICRpbm5lciA9IEdldC1DaGlsZEl0ZW0gJHRtcCAtRGlyZWN0b3J5IHwgU2VsZWN0LU9iamVjdCAtRmlyc3QgMQogICAgaWYgKFRlc3QtUGF0aCAkc2RzKSB7IFJlbW92ZS1JdGVtICRzZHMgLVJlY3Vyc2UgLUZvcmNlIH0KICAgIE1vdmUtSXRlbSAkaW5uZXIuRnVsbE5hbWUgJHNkcwogICAgUmVtb3ZlLUl0ZW0gJHRtcCAtUmVjdXJzZSAtRm9yY2UKICAgIFdyaXRlLU91dHB1dCAic2Qtc2NyaXB0cyBleHRyYWN0ZWQ6ICRzZHMiCn0KJHJlcSA9IEpvaW4tUGF0aCAkc2RzICdyZXF1aXJlbWVudHMudHh0JwokZmlsdGVyZWQgPSBKb2luLVBhdGggJHRyYWluICdyZXF1aXJlbWVudHNfZmlsdGVyZWQudHh0JwokbGluZXMgPSBHZXQtQ29udGVudCAkcmVxIHwgV2hlcmUtT2JqZWN0IHsKICAgICRfIC1ub3RtYXRjaCAnXih0b3JjaHx0b3JjaHZpc2lvbnx4Zm9ybWVyc3xiaXRzYW5kYnl0ZXMpJyAtYW5kICRfIC1ub3RtYXRjaCAnXi0nIC1hbmQgJF8uVHJpbSgpIC1uZSAnJwp9IHwgRm9yRWFjaC1PYmplY3QgeyAkXyAtcmVwbGFjZSAnXmRpZmZ1c2Vyc1xbLio/XF0oPT18Pj18PD18fj0pPy4qJCcsICdkaWZmdXNlcnMnIH0KJGxpbmVzIHwgU2V0LUNvbnRlbnQgJGZpbHRlcmVkIC1FbmNvZGluZyBVVEY4CldyaXRlLU91dHB1dCAnZmlsdGVyZWQgcmVxdWlyZW1lbnRzOicKJGxpbmVzIHwgRm9yRWFjaC1PYmplY3QgeyBXcml0ZS1PdXRwdXQgIiAgJF8iIH0KJiAkcHkgLW0gcGlwIGluc3RhbGwgLS10YXJnZXQgJHBrZ3MgLXIgJGZpbHRlcmVkCldyaXRlLU91dHB1dCAicGlwIGluc3RhbGwgZXhpdDogJExBU1RFWElUQ09ERSIKCiRlbnY6UFlUSE9OUEFUSCA9ICIkcGtnczskc2RzIgpQdXNoLUxvY2F0aW9uICRzZHMKJiAkcHkgc2R4bF90cmFpbl9uZXR3b3JrLnB5IC0taGVscCAyPiYxIHwgU2VsZWN0LU9iamVjdCAtRmlyc3QgMTUKV3JpdGUtT3V0cHV0ICJoZWxwIGV4aXQ6ICRMQVNURVhJVENPREUiClBvcC1Mb2NhdGlvbgpXcml0ZS1PdXRwdXQgJ1NFVFVQX0RPTkUnCg==
+﻿# setup_train.ps1: pc1 に LoRA 学習環境 (kohya sd-scripts + 依存) を構築する
+$ErrorActionPreference = 'Continue'
+$train = Join-Path $env:USERPROFILE 'pc1-train'
+$pkgs = Join-Path $train 'pkgs'
+$sds = Join-Path $train 'sd-scripts'
+New-Item -ItemType Directory -Force -Path $train, $pkgs | Out-Null
+
+function Find-Python {
+    $roots = @("$env:LOCALAPPDATA\Comfy-Desktop")
+    foreach ($r in $roots) {
+        if (Test-Path $r) {
+            $hit = Get-ChildItem $r -Recurse -Filter 'python.exe' -ErrorAction SilentlyContinue |
+                Where-Object { $_.FullName -notmatch 'node' } | Select-Object -First 1
+            if ($hit) { return $hit.FullName }
+        }
+    }
+    return $null
+}
+$py = Find-Python
+if (-not $py) { Write-Output 'PYTHON NOT FOUND'; exit 1 }
+Write-Output "python: $py"
+& $py --version
+& $py -c "import torch; print('torch', torch.__version__); print('cuda_avail', torch.cuda.is_available()); print('device', torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'none')"
+& $py -m pip --version
+if ($LASTEXITCODE -ne 0) { Write-Output 'pip missing, trying ensurepip'; & $py -m ensurepip --default-pip; & $py -m pip --version }
+
+if (-not (Test-Path (Join-Path $sds 'sdxl_train_network.py'))) {
+    $zip = Join-Path $train 'sd-scripts.zip'
+    Write-Output 'downloading sd-scripts...'
+    & curl.exe -L --retry 3 -o $zip 'https://codeload.github.com/kohya-ss/sd-scripts/zip/refs/heads/main'
+    if ($LASTEXITCODE -ne 0) { Write-Output 'SD-SCRIPTS DOWNLOAD FAILED'; exit 1 }
+    $tmp = Join-Path $train 'sds_tmp'
+    if (Test-Path $tmp) { Remove-Item $tmp -Recurse -Force }
+    Expand-Archive -Path $zip -DestinationPath $tmp -Force
+    $inner = Get-ChildItem $tmp -Directory | Select-Object -First 1
+    if (Test-Path $sds) { Remove-Item $sds -Recurse -Force }
+    Move-Item $inner.FullName $sds
+    Remove-Item $tmp -Recurse -Force
+    Write-Output "sd-scripts extracted: $sds"
+}
+$req = Join-Path $sds 'requirements.txt'
+$filtered = Join-Path $train 'requirements_filtered.txt'
+$lines = Get-Content $req | Where-Object {
+    $_ -notmatch '^(torch|torchvision|xformers|bitsandbytes)' -and $_ -notmatch '^-' -and $_.Trim() -ne ''
+} | ForEach-Object { $_ -replace '^diffusers\[.*?\](==|>=|<=|~=)?.*$', 'diffusers' }
+$lines | Set-Content $filtered -Encoding UTF8
+Write-Output 'filtered requirements:'
+$lines | ForEach-Object { Write-Output "  $_" }
+& $py -m pip install --target $pkgs -r $filtered
+Write-Output "pip install exit: $LASTEXITCODE"
+
+$env:PYTHONPATH = "$pkgs;$sds"
+Push-Location $sds
+& $py sdxl_train_network.py --help 2>&1 | Select-Object -First 15
+Write-Output "help exit: $LASTEXITCODE"
+Pop-Location
+Write-Output 'SETUP_DONE'
