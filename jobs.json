@@ -170,6 +170,19 @@
    "kind": "run",
    "script": "dataset_report.ps1",
    "log": "dsreport1"
+  },
+  {
+   "id": "put-run-train2-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/run_train2.ps1",
+   "dest": "train",
+   "filename": "run_train2.ps1"
+  },
+  {
+   "id": "run-run-train2-1",
+   "kind": "run",
+   "script": "run_train2.ps1",
+   "log": "train2"
   }
  ]
 }
