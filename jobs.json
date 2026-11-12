@@ -85,6 +85,20 @@
    "kind": "run",
    "script": "probe.ps1",
    "log": "probe1"
+  },
+  {
+   "id": "put-ingest-ps1-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/ingest_drop.ps1",
+   "dest": "train",
+   "filename": "ingest_drop.ps1"
+  },
+  {
+   "id": "put-ingest-py-1",
+   "kind": "put",
+   "url": "https://raw.githubusercontent.com/odoaka868-wq/sync-jobs/main/ingest_drop.py",
+   "dest": "train",
+   "filename": "ingest_drop.py"
   }
  ]
 }
